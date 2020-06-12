@@ -1,6 +1,6 @@
 # django-applications
 
-<b>The tools used in these application include:</b><br>
+<b>The tools used in these applications include:</b><br>
 <ol>
   <li>Python 3.x+</li>
   <li> Django 3.x+</li>
