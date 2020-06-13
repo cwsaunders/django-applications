@@ -13,7 +13,7 @@
 
 <b>Functionalities include:</b><br><br>
 
-1. A fully functional blog that allows for creation, editing, and deletion of posts.<br>
+1. A fully functional blog that allows for creation, editing, and deletion of posts. Posts are listed in a paginated fashion.<br>
 2. A log in system that only permits users to interact with certain items. (Such as their own posts)<br>
 3. User profiles that stores user data such as profile pictures, emails, usernames, etc.<br>
 4. The front end of the website is styled using HTML5, CSS3, Crispy Forms, and Bootstrap 4.<br>
