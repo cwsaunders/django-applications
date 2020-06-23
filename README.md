@@ -1,5 +1,7 @@
 # django-applications
 
+Website has been deployed and can be viewed at http://45.33.102.148/ <br><br>
+
 <b>The tools used in these applications include:</b><br>
 <ol>
   <li>Python 3.x+</li>
